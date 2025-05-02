@@ -41,60 +41,42 @@ const projects = [
     href: "https://unqueue.shop/",
   },
   {
-    title: "InfiniteVPS",
-    description: "High performance VPS hosting solution",
-    image: "/assets/infinitevps.webm",
+    title: "VideoShow",
+    description: "VideoShow Of Editing",
+    image: "/assets/video1.webm",
     href: "#",
-  },
-  {
-    title: "TranslateBot",
-    description: "Powerful Multilingual Translation Bot for Discord",
-    image: "/assets/translate_bot.webm",
-    href: "https://translatebot.app/",
-  },
-  {
-    title: "Wrona",
-    description: "Robotics-focused technology company",
-    image: "/assets/wrona.jpeg",
-    href: "https://www.wrona.com/",
-  },
-  {
-    title: "This website",
-    description: "My personal website",
-    image: "/assets/portfolio.webm",
-    href: "https://github.com/wendoj/portfolio",
   },
 ];
 
 const services = [
   {
-    service: "Frontend Development",
+    service: "Video Editing & Post-Production",
     description:
-      "Creating stellar user interfaces and web experiences using the latest technologies.",
+      "Crafting compelling visuals and narratives through precise editing.",
     icon: Code2,
   },
   {
-    service: "UX Design",
+    service: "Color Grading & Correction",
     description:
-      "Building intuitive, user-centric designs that drive engagement and conversion.",
+      "Enhancing visual tone and mood with professional color balance.",
     icon: Frame,
   },
   {
-    service: "SEO Optimization",
+    service: "Motion Graphics & Animation",
     description:
-      "Enhancing your website's visibility in search engines for increased organic traffic.",
+      "Bringing static visuals to life through animated motion design.",
     icon: SearchCheck,
   },
   {
-    service: "Responsive Design",
+    service: "Social Media Video Creation",
     description:
-      "Designing websites that look and perform equally well on all devices and screen sizes.",
+      "Designing scroll-stopping content optimized for every platform.",
     icon: MonitorSmartphone,
   },
   {
-    service: "Backend Development",
+    service: "YouTube & Promo Video Editing",
     description:
-      "Developing robust, scalable server-side logic for a wide range of web applications.",
+      "Editing engaging stories that connect and drive viewer action.",
     icon: Eye,
   },
 ];
